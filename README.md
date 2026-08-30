@@ -14,4 +14,3 @@
 git clone https://github.com/your-username/hello-kitty-dark-side.git
 cd hello-kitty-dark-side
 pip install -r requirements.txt
-python index.py
